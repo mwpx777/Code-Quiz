@@ -1,8 +1,8 @@
 # Project Title
 
-Weekly Challenge #3 12.19.20
+Weekly Challenge #4 01.03.21
 
-Password Generator
+Code Quiz
 
 
 ## Table of Contents
@@ -17,15 +17,15 @@ Password Generator
 
 ## Description
 
-This is the third weekly challenge assignment.  In this challenge, we are tasked to create a random password generator utilizing user input.
+This is the fourth weekly challenge assignment.  In this challenge, we are tasked to create code quiz, and caputure the high score and initals of the player.
 
 
 ## Website Image
-<img src="Password-Generator-Screenshot.png">
+<img src="code-quiz-screenshot.png">
 
 ## Website Link
 
-("https://mwpx777.github.io/Password-Generator-121920/")
+(https://mwpx777.github.io/Code-Quiz/)
 
 ## Help
 
@@ -51,7 +51,7 @@ Please direct any issues or problems to mwpx777@gmail.com
 ## Version History
 
 * 0.1
-    * Initial Release 12.19.20
+    * Initial Release 01.03.21
 
 
 ## Acknowledgments
